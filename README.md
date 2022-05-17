@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @DevKai-Projects
+- 👋 What's up?
+-  I’m Kylle, senior high-school student from the Philippines
 - 👀 I’m interested in 
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
